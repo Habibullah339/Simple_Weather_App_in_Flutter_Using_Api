@@ -1,6 +1,6 @@
 # weather
 
-A new Flutter project.
+Simple Weather App In Flutter Using Api
 
 ## Getting Started
 
