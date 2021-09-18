@@ -1,8 +1,8 @@
 # Weather App In Flutter
 
 Simple Weather App In Flutter Using Api
-<img src="https://user-images.githubusercontent.com/73570477/133889857-c7783286-593e-4e9e-80cd-fe875a62957f.jpg">
-<img src="https://user-images.githubusercontent.com/73570477/133889867-9f183e3f-2e01-4ad2-9c10-151237f39e74.jpg">
+
+<img src="https://user-images.githubusercontent.com/73570477/133890285-1dc32453-160b-4226-9460-5e88e4a277ad.png">
 
 ## Getting Started
 
